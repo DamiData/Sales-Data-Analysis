@@ -20,7 +20,7 @@ The purpose of this project is to analyze sales data to identify trends, top-sel
 
 ## Description
 
-In this project, Delve into a large sales dataset to extract valuable insights and aslo explore sales trends over time, identify the best-selling products, calculate revenue metrics such as total sales and profit margins, and create visualizations to effectively present findings. This project showcases the ability to manipulate and derive insights from large datasets, enabling data-driven recommendations for optimizing sales strategies.
+In this project, Delve into a large sales dataset to extract valuable insights and also explore sales trends over time, identify the best-selling products, calculate revenue metrics such as total sales and profit margins, and create visualizations to effectively present findings. This project showcases the ability to manipulate and derive insights from large datasets, enabling data-driven recommendations for optimizing sales strategies.
 
 
 ## Tools Used
