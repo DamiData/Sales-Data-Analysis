@@ -15,8 +15,8 @@
 
 The purpose of this project is to analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making.
 
-
-
+![Sales Analysis Dashboard](sales_analysis_dashboard.png)
+![Sales Analysis Dashboard](https://github.com/DamiData/Sales-Data-Analysis/assets/161587504/9e2f9071-6e5f-4182-a6f2-a08cff548517)
 
 ## Description
 
@@ -26,7 +26,7 @@ In this project, Delve into a large sales dataset to extract valuable insights a
 ## Tools Used
 
 - Excel: Data Cleaning and Data Visualization
-[Download Excel](https://microsoft.com)
+  - [Download Excel](https://microsoft.com)
 - Power BI: Creating interactive reports and visualizations.
   - [Download Power BI](https://powerbi.microsoft.com/)
 
