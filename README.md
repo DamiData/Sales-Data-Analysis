@@ -15,8 +15,9 @@
 
 The purpose of this project is to analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making.
 
-![Sales Analysis Dashboard](sales_analysis_dashboard.png)
-![Sales Analysis Dashboard](https://github.com/DamiData/Sales-Data-Analysis/assets/161587504/9e2f9071-6e5f-4182-a6f2-a08cff548517)
+
+![Sales Analysis Dashboard](https://github.com/user-attachments/assets/091ccb9e-1bfd-48e2-86a8-8c9d62b8cfe5)
+
 
 ## Description
 
